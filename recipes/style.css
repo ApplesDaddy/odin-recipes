@@ -1,0 +1,21 @@
+
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#name{
+    text-align: center;
+}
+#credit{
+    text-align: center;
+}
+.image{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+}
+
+.list{
+    font-family: 'Times New Roman', Times, serif
+}
